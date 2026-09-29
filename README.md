@@ -2,7 +2,7 @@
 
 # ⋆ ☾⋆⁺₊⋆ mafe  ☾ ⏾ ⋆⁺₊
 
-<img src="./earth.jpg" width="100%" alt="Earth">
+<img src="./assets/earth.jpg" width="100%" alt="Earth">
 
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack+-+Student;Cybersecurity+enthusiast;Dev+in+progress..." alt="Typing SVG">
 
@@ -31,7 +31,7 @@ buscando aprender novas técnologias.
 
 <td width="40%" align="center">
 
-<img src="./cyber.gif" width="100%" alt="Cybersecurity">
+<img src="./assets/cyber.gif" width="100%" alt="Cybersecurity">
 
 </td>
 
