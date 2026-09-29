@@ -4,7 +4,7 @@
 
 <img src="./assets/earth.jpg" width="100%" alt="Earth">
 
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=student+-+fullstack;cybersecurity+enthusiast;dev+in+progress..." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=software+engineering+student;cybersecurity+-+programming+enthusiast;dev+in+progress..." alt="Typing SVG">
 
 </div>
 
