@@ -17,15 +17,11 @@
 
 ## ☾⋆⁺₊ 'bout me
 
-Estudante de **Engenharia de Software**, com interesse
-principalmente em **Cybersecurity** e **Backend**.
+**Software Engineering** student, with a primary interest in **Cybersecurity** and **Backend** development.
 
-Atualmente desenvolvendo meus conhecimentos em
-programação, sistemas e desenvolvimento
-de aplicações.
+Currently expanding my knowledge in programming, systems, and application development.
 
-Tenho como objetivo construir minha carreira nas minhas áreas de foco,
-buscando aprender novas técnologias.
+My goal is to build a career within these areas of focus, while continuously exploring and learning new technologies.
 
 </td>
 
